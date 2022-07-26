@@ -1,2 +1,2 @@
 # Odin-Landing-Page
-Odin Landing page project.
+Odin Landing page Template.
